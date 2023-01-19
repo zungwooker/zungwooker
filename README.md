@@ -1,4 +1,6 @@
 ### Hi there 👋
+안녕하세요? 오늘도 상쾌한 하루입니다.
+줄여서 안오상하
 
 <!--
 **zungwooker/zungwooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zungwooker)](https://github.com/anuraghazra/github-readme-stats)
+
